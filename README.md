@@ -59,7 +59,41 @@ Para rodar o app do paciente, use a pasta `terapa_clientes_v1` no passo 3.
 
 Tela de Login
 
+<img width="186" height="398" alt="Picture2" src="https://github.com/user-attachments/assets/c4bbf706-e932-47ac-923d-ae98f950c811" />
 
+Tela de Escolha de Cadastro
+
+<img width="195" height="419" alt="Picture3" src="https://github.com/user-attachments/assets/93efecb5-3826-479d-860d-58298d7ac542" />
+
+Tela de Cadastro
+
+<img width="204" height="440" alt="Picture4" src="https://github.com/user-attachments/assets/8986f597-5b3e-4bfd-9f60-0853648e2b5a" />
+
+Tela de Perfil Profissional
+
+<img width="211" height="454" alt="Picture5" src="https://github.com/user-attachments/assets/7a252b58-ee81-40b9-bcf2-d976f1616a4e" />
+
+Tela de Pesquisa 1
+
+<img width="201" height="428" alt="Picture6" src="https://github.com/user-attachments/assets/ef757cea-9312-406b-87bb-972c8b7a03ad" />
+
+Tela de Perfil do Usuário
+
+<img width="200" height="442" alt="Picture7" src="https://github.com/user-attachments/assets/729ce27b-a741-4310-b2e4-8c9c29a19ebe" />
+
+Tela de Chat Usuário
+
+<img width="192" height="408" alt="Picture8" src="https://github.com/user-attachments/assets/cd739ae0-eaab-4cc8-93ea-c4c59c14ca7a" />
+
+Tela de Configurações
+
+<img width="205" height="431" alt="Picture9" src="https://github.com/user-attachments/assets/1def2201-9bcd-4223-8619-1d99cedf0bc5" />
+
+Tela de Pesquisa 2
+
+<img width="186" height="401" alt="Picture10" src="https://github.com/user-attachments/assets/a55cff75-841d-43de-92ae-170ec6524ca8" />
+
+Tela de Chat
 ## Status
 
 Projeto acadêmico (TCC).
