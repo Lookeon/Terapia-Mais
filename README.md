@@ -53,6 +53,12 @@ Para rodar o app do paciente, use a pasta `terapa_clientes_v1` no passo 3.
 - Construção do chat
 - Integração do chat com o banco de dados
 
+## Exemplos visuais
+
+<img width="207" height="440" alt="Picture1" src="https://github.com/user-attachments/assets/b3d4d0a3-bd34-4904-b91e-4129811a57ee" />
+Tela de Login
+
+
 ## Status
 
 Projeto acadêmico (TCC).
